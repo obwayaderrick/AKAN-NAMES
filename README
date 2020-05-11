@@ -4,6 +4,13 @@ This is a simple web page designed to tell about  the origin of Akan names and h
 
 ## Getting Started 
 
+
+## Author(s) information
+
+ Name: Derrick Obwaya
+ Mail: Obwayaderrick@gmail.com
+
+
 ## Prerequisites
 
 What things you need to install the software and how to install them
@@ -12,9 +19,13 @@ What things you need to install the software and how to install them
 Browser or a Text Edidtor 
 ```
 ## Technologies Used
+
 -HTML , css and index.js
 -Atom,vs Code,Directories `cd Portfolio`
  -Open index.html on the Browser
+
+
+
 
 
 ### Development
@@ -23,6 +34,14 @@ Browser or a Text Edidtor
  -Create a new branch 
  -Make an appropriate changes in the files
  -Add changes to reflect the changes made  
+
+
+
+###Contact information.
+
+Number: 0729793668
+Email :Obwayaderrick@gmail.com
+
 
 
 ## License
