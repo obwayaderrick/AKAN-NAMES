@@ -1,0 +1,31 @@
+# AKAN NAMES
+
+This is a simple web page designed to tell about  the origin of Akan names and how to find  names according to the dsy someone was born 
+
+## Getting Started 
+
+## Prerequisites
+
+What things you need to install the software and how to install them
+
+```
+Browser or a Text Edidtor 
+```
+## Technologies Used
+-HTML , css and index.js
+-Atom,vs Code,Directories `cd Portfolio`
+ -Open index.html on the Browser
+
+
+### Development
+
+ To enhance an exixsting module 
+ -Create a new branch 
+ -Make an appropriate changes in the files
+ -Add changes to reflect the changes made  
+
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md]
+(LICENSE.md) file for details
