@@ -1,6 +1,6 @@
-# AKAN NAMES
+# delani studio
 
-This is a simple web page designed to tell about  the origin of Akan names and how to find  names according to the dsy someone was born 
+This is a simple website for an well known studio 
 
 ## Getting Started 
 
@@ -13,6 +13,9 @@ This is a simple web page designed to tell about  the origin of Akan names and h
 ## Prerequisites
 
 What things you need to install the software and how to install them
+-bootstrap
+-ubuntu
+-jQueries
 
 ```
 Browser or a Text Edidtor 
@@ -22,6 +25,7 @@ Browser or a Text Edidtor
 -HTML , css and index.js
 -Atom,vs Code,Directories `cd Portfolio`
  -Open index.html on the Browser
+-javascript
 
 
 ### Development

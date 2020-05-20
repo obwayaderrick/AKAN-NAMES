@@ -5,6 +5,7 @@
         <meta name="Viewport" content="Width=device-width, initial-scale=1.0">
         <title>Akan names search</title>
         <link type="text/css" href="css/bootstrap.css" rel="stylesheet">
+        <link type="text/css" href="css/style.css" rel="stylesheet">
     </head>    
     <body>
         <div class="Container co1-md-8">
@@ -14,9 +15,11 @@
             </div>
             <div>
                 <div class="card-body">
-                    <p class="card-text">This is Akan names page.They are Ghanaian traditional names which  children are given their first 
-                        name as a 'day name' which corresponds to the day in the week they were born.
-                    </p>
+                    <p class="card-text">This is Akan names page.</p>
+                        <p>They are Ghanaian traditional names which  children are given their first 
+                        name as a 'day name' which corresponds to the day in the week they were born.</p>
+                    
+                    <p>The age of a person can be counted differently in different cultures.</p>
                 </div>
             </div>
 
@@ -71,9 +74,16 @@
                     </tbody>
                       
                 </table>
-                <div class="card col-md-3">
+                <div class="card1">
+                    
                     <div class="card-body">
                         <h4 class="card-title">Generate your Akan name here: </h4>
+                        <form action="/action_page.php">
+                            <p>Please select your gender:</p>
+                            <input type="radio" id="male" name="gender" value="male">
+                            <label for="male">Male</label><br>
+                            <input type="radio" id="female" name="gender" value="female">
+                            <label for="female">Female</label><br>
                         <form action="/action_page.php">
                             <label for="DOB">Date of birth:</label>
                             Birthday: <input type="date" id="Date">
